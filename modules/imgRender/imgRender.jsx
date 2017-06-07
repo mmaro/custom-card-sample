@@ -12,7 +12,10 @@ Unless required by applicable law or agreed to in writing, software distributed 
 See the License for the specific language governing permissions and limitations under the License.
 
 
+Contributors:
 
+Frank Leo Mielke - Initial Contribution
+Nikhil C - Custom Cards
 *****************************************************************************/
 var imgRender = {};
 imgRender.imgRender = require('./cards/imgRender.jsx');
